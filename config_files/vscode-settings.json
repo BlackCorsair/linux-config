@@ -1,0 +1,20 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "git.ignoreLegacyWarning": true,
+    "window.zoomLevel": 0,
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
+    "cmake.configureOnOpen": false,
+    "editor.fontFamily": " 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 15,
+    "remote.extensionKind": {
+        "ms-azuretools.vscode-docker": "workspace"
+    },
+    "vim.mouseSelectionGoesIntoVisualMode": false,
+    "vim.useSystemClipboard": true,
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true
+}
