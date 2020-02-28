@@ -23,6 +23,7 @@ install_basic_programs(){
 
 ### SETUP VIM ###
 vim_setup(){
+  git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 	cp config_files/vimrc ~/.vimrc
 	vim +PluginInstall +qall
 }

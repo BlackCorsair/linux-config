@@ -25,7 +25,7 @@ set shiftwidth=4
 set smarttab
 set expandtab
 set list
-colorscheme 256-grayvim
+colorscheme elflord
 set encoding=utf-8
 set term=screen-256color
 
